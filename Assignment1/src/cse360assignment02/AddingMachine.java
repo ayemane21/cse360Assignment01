@@ -6,7 +6,7 @@ public class AddingMachine {
    // this is a constructor method */
   public AddingMachine () {
     total = 0;  // not needed - included for clarity
-    his ="0 ";
+    his ="0";
   }
   /*  returns the total value */
   public int getTotal () {
